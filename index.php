@@ -1,5 +1,6 @@
 <?php
-echo "Welcome To My Azure App Server Hosted Site";
+echo "Welcome Tirtho to My Azure App Server Hosted Site";
+
 echo "<br>";
 
 phpinfo();
